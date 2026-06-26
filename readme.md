@@ -87,13 +87,3 @@ Completed. The micro-project meets all the specified requirements and is ready f
 - **JavaScript Library:** [jQuery](https://jquery.com/)
 
 ---
-
-## Other Information
-
-### Setup Instructions:
-To run this project locally:
-1. Clone this repository.
-2. Open the script.js file.
-3. Replace the placeholder token variable with your actual JsonPowerDB Connection Token.
-   ```javascript
-   const token = "YOUR_JPDB_CONNECTION_TOKEN_HERE";
